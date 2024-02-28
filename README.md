@@ -1,6 +1,6 @@
 ## Toolbox modules for data processing and plot generation
 Scripts for plot generation and set building
-I drop these in the python site-packages folder so i can easily access them from anywhere on my computer.
+I deploy these as python modules to be imported from anywhere.
 Uses numpy and matplotlib
 
 #### PlotTools.py
